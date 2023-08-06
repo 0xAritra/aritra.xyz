@@ -1,0 +1,15 @@
+---
+title: "Hello world!"
+summary: "On writing..."
+date: "2022-08-18"
+draft: false
+aliases: ["hello"]
+tags: ["hello"]
+author: "Aritra Saha"
+---
+
+**Hello, World!**
+
+So, I always wanted to have a life log / tracker kinda thing which I can use to document my experiences/learnings - this blog is an effort towards that. Maybe, years later - I look at it and have a good laugh or maybe it helps someone, who knows :)
+
+Well, it's already 1am, I should head to bed probably. Kinda sad as I have to soon go back to college in Chennai (have to pack stuff in morning - have the train the next day). Will again miss being at home :(
