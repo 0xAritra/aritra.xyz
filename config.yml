@@ -1,9 +1,11 @@
 ---
-baseURL: https://0xAritra.github.io/
+baseURL: https://aritra.xyz/
 languageCode: en-us
 title: Aritra Saha
-paginate: 5
 theme: PaperMod
+
+pagination:
+  pagerSize: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -91,7 +93,7 @@ privacy:
     disabled: false
     simple: true
 
-  twitter:
+  x:
     disabled: false
     enableDNT: true
     simple: true
@@ -107,5 +109,5 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
