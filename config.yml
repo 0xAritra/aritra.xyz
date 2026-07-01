@@ -36,9 +36,9 @@ menu:
     - name: tags
       url: tags/
       weight: 30
-    - identifier: resume
-      name: resume
-      url: https://resume.aritra.xyz
+    - identifier: linkedin
+      name: linkedin
+      url: https://www.linkedin.com/in/0xAritra
       weight: 40
 params:
   author: Aritra Saha
@@ -56,6 +56,8 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/0xAritra
+    - name: twitter
+      url: https://x.com/0xAritra
     - name: linkedin
       url: https://www.linkedin.com/in/0xAritra
     - name: rss
